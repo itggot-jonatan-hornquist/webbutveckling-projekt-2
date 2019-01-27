@@ -2,7 +2,7 @@
     font-family: 'Mountains of Christmas', cursive
 
 main
-    background-color: red
+    background-color: darkred
     min-height: 100vh
 
 body
@@ -18,7 +18,7 @@ body
     min-height: 100vh
 
 .box
-    background-color: #ff4d4d
+    background-color: red
     width: 70%
     height: 250px
     border-style: solid
@@ -67,20 +67,31 @@ body
 
     display: none
 
+#info_close
+    display: none
+
+    width: 15%
+    height: 10%
+
+    position: absolute
+    right: 2%
+    top: 1%
+
+
 #info_source
     grid-area: source
 
     margin-right: 5%
     text-align: right
     cursor: pointer
-    font-size: 24px 
-    color: white    
+    font-size: 24px
+    color: white
 
 #info_text
     grid-area: text
 
     margin: 2% 5% 0 5%
-  
+
     color: white
     font-size: 3.5vh
 
@@ -100,6 +111,9 @@ body
 .clicked
     display: grid !important
 
+.show_close
+    display: block !important
+
 @media only screen and (min-device-width: 768px)
     .content_wrapper
         margin: 0 10% 0 10%
@@ -110,7 +124,7 @@ body
         width: 125px
         height: 125px
         margin: 8px 16px 8px 16px
-        
+
         font-size: 72px
         line-height: 120px
 
