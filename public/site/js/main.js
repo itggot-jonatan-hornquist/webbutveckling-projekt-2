@@ -2,6 +2,7 @@ function popUp(event){
     let box_id = event.target.id
     var button = document.getElementById("info_close")
 
+
     if (window.innerWidth > 767) {
       button.classList.add("show_close")
       info.onclick=""

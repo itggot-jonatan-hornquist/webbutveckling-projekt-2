@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/main.css">
+    <link href="https://fonts.googleapis.com/css?family=Mountains+of+Christmas" rel="stylesheet">
+    <title>Hjulkalender</title>
+</head>
+<body>
+
+    <h1>webbutveckling-projekt-2</h1>
+
+<h2>Tema</h2>
+
+<p>(H)Jul!!</p>
+
+<h2>Kravspecifikation</h2>
+
+<ul>
+<li>Alla tekniker vi använt hittils.
+
+<ul>
+<li>Grid och Flex</li>
+<li>Webfonts + Ikoner</li>
+<li>Media Queries</li>
+<li>Semantisk HTML</li>
+<li>Transitions</li>
+<li>Pseudoklasser</li>
+<li>JavaScript</li>
+<li>etc.</li>
+</ul></li>
+<li>Riktigt innehåll, ingen lorem ipsum på färdig produkt.</li>
+<li>Mobil- och desktop version.
+
+<ul>
+<li>Mobile First.</li>
+</ul></li>
+<li>Detaljerade skisser ( OK med Adobe XD och/eller Photoshop eller annan programvara)
+
+<ul>
+<li>Skisser för layout</li>
+<li>Skisser för animeringar</li>
+<li>Skisser för inre layouts (t.ex artiklar, knappar, menyer)</li>
+</ul></li>
+<li>Bildbehandling i photoshop</li>
+<li>Utvecklingsdagbok i Wikin
+
+<ul>
+<li>Tänk på att använda begrepp och terminologin som du lärt dig</li>
+</ul></li>
+<li>Stand Up Meetings</li>
+</ul>
+
+<h2>Bedömningsmatris</h2>
+
+<p>| Bedömningsaspekt               | E                                        | C                                        | A                                        |
+| ------------------------------ | ---------------------------------------- | ---------------------------------------- | ---------------------------------------- |
+| Planering         |<strong>Tillsammans med läraren</strong> gör du en <strong>enkel</strong> projektplan för en <strong>enkel</strong> produkt och gör en <strong>enkel</strong> skiss.|<strong>Med läraren som bollplank</strong> gör du en <strong>utförlig</strong> projektplan för en <strong>lite mer avancerad</strong> produkt och gör <strong>flera</strong> skisser.|<strong>Med läraren som bollplank</strong> gör du en <strong>utförlig och strukturerad</strong> projektplan för en <strong>avancerad</strong> produkt och gör <strong>flera detaljerade</strong> skisser.|
+| Dokumentering     |<strong>Tillsammans med läraren</strong> skriver du med <strong>enkel</strong> terminologi en <strong>kortfattad</strong> utvecklingsdagbok.|<strong>Med läraren som bollplank</strong> skriver du med <strong>korrekt</strong> terminologi en <strong>utförlig</strong> utvecklingsdagbok.|<strong>Med läraren som bollplank</strong> skriver du med <strong>korrekt</strong> terminologi <strong>utförlig och detaljerad</strong> utvecklingsdagbok.|
+| Implementering    |<strong>Tillsammans med läraren</strong> implementerar du din projektplan och felsöker produkten.|<strong>Med läraren som bollplank</strong> implementerar du en tänkt produkt och felsöker produkten <strong>systematiskt</strong> .|<strong>Med läraren som bollplank</strong> implementerar du <strong>effektivt</strong> en tänkt produkt <strong>som använder DOM-skript</strong>, och felsöker produkten <strong>systematiskt och effektivt</strong>.|
+| Optimering        |<strong>Tillsammans med läraren</strong> gör du <strong>någon enkel</strong> optimering för överföring av antal och storlek på resurser.|<strong>Med läraren som bollplank</strong> gör du  <strong>flera</strong> optimeringar för överföring av antal och storlek på resurser.|~~<strong>Med läraren som bollplank</strong> gör du <strong>flera</strong> optimeringar för överföring av antal och storlek på resurser.~~ |
+| Anpassning        |<strong>Tillsammans med läraren</strong> anpassar du produkt för <strong>någon</strong> enhet och anpassar media för denna enhet.|<strong>Med läraren som bollplank</strong> anpassar du din produkt för <strong>flera</strong> enheter och anpassar media för dessa enheter.|<strong>Med läraren som bollplank</strong> anpassar du din produkt för <strong>flera</strong> enheter och <strong>på ett effektivt sätt</strong>  anpassar media till dessa enheter.|</p>
+
+
+
+    <script src="js/main.js"></script>
+</body>
+</html>
